@@ -1,14 +1,16 @@
-# thpatch ZH hub
+# Touhou Patch Center Chinese support (Unofficial)
 
-This organization is unofficial thpatch Chinese support team to maintain some third-party patches.
+This organization is the unofficial Touhou Patch Center Chinese support team, mainly aims at the maintainance of depencies for the Chinese language patch.
 
-thpatch 中文支持部（非官方团队）
+# 东方补丁中心中文支持部（非官方团队）
 
-本组织为非官方的 thpatch 中文支持团队，以进行 thpatch 的部分三方补丁维护。
+本组织为非官方的东方补丁中心中文支持团队，主要进行中文分支前置依赖补丁的维护。
 
-thpatch 中文支援部（非官方團隊）
+# 東方補丁中心中文支援部（非官方團隊）
 
-本組織為非官方的 thpatch 中文支持團隊，以進行 thpatch 的部分三方補丁維護。
+本組織為非官方的東方補丁中心中文支持團隊，主要進行中文分支前置依賴補丁的維護。
 
 ## Link
-[thpatch](https://github.com/thpatch)
+[thpatch](https://github.com/thpatch)  
+[东方补丁中心](https://thpatch.net)  
+[东方补丁中心中文站](https://thpatch.rcopky.top)
